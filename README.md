@@ -177,7 +177,7 @@ function UserProfileManager() {
     );
   };
 
-  return <div>{/* Interface do usuário */}</div>;
+  return <></>;
 }
 ```
 
