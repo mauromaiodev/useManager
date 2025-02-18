@@ -7,6 +7,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauromaiodev/useManager"
+  },
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
