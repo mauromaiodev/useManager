@@ -5,11 +5,19 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "LICENSE",
+    "README.md"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauromaiodev/useManager"
+    "url": "https://github.com/mauromaiodev/useManager.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   },
   "scripts": {
     "build": "tsc",
