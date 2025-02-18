@@ -1,6 +1,6 @@
 {
   "name": "use-manager",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Um hook React para gerenciar múltiplos estados em um único lugar",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
