@@ -1,13 +1,14 @@
 {
   "name": "use-manager",
-  "version": "1.0.4",
-  "description": "Um hook React para gerenciar múltiplos estados em um único lugar",
+  "version": "1.0.6",
+  "description": "A simple and efficient React hook to manage multiple states in a single place",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "README-pt.md"
   ],
   "repository": {
     "type": "git",
@@ -31,7 +32,10 @@
     "state",
     "state-management",
     "typescript",
-    "nextjs"
+    "nextjs",
+    "react-hooks",
+    "deep-update",
+    "bulk-update"
   ],
   "author": "Mauro Maio",
   "license": "MIT",
