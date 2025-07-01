@@ -1,14 +1,13 @@
 {
   "name": "use-manager",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple and efficient React hook to manage multiple states in a single place",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist",
     "LICENSE",
-    "README.md",
-    "README-pt.md"
+    "README.md"
   ],
   "repository": {
     "type": "git",
